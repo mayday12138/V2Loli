@@ -55,9 +55,7 @@ import com.v2ray.loli.util.NetUtils;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-/**import static android.Manifest.permission.READ_CONTACTS;
-*老版本安卓报错，删去读取通讯录权限测试
-*/
+import static android.Manifest.permission.READ_CONTACTS;
 /**
  * A login screen that offers login via email/password.
  */
